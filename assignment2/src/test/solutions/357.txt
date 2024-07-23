@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(Wtz), [VarDecl(Id(BPO7), ArrayType([40.85], NumberType), None, None)], Return())])

@@ -1,0 +1,6 @@
+
+func Cm (number R9[95.17], bool Ms4H, bool lR[95.45])	begin
+		for DWRQ until EuG by 11.31
+			return 52.9
+	end
+

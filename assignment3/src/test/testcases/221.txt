@@ -1,0 +1,6 @@
+ 
+            var VoTien <- a()
+            var VoTien <- a(1,2)
+            var VoTien <- a(x,array[2])[2]
+            var VoTien <- a(z,k[3] ... 2)[1,2]
+        

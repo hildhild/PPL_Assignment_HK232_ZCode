@@ -1,0 +1,6 @@
+
+func vNe (string KVv4[92.97,49.5], bool uo)
+	begin
+		return
+	end
+

@@ -1,0 +1,52 @@
+
+func X6D (number RM4N[15.49,68.95,13.68])
+	begin
+		if (SR06)
+		Oal(false)
+		elif (52.99) continue
+		elif (75.57)
+		if (true) return false
+		elif (false) begin
+			DrRn(I1, "pm", 59.8)
+			continue
+		end
+		elif (gX) begin
+		end
+		elif (false) begin
+			string Ga3r[48.76,38.34,69.59] <- true
+			begin
+				number lYY <- "u"
+				number fKP <- 18.38
+			end
+			continue
+		end
+		elif (true)
+		continue
+		else if ("mPBF") h2w <- false
+		elif (true)
+		begin
+		end
+		elif (98.63)
+		j5 <- "q"
+		elif (79.89)
+		begin
+			bool Lo[33.28,96.74]
+		end
+		else eQ <- 36.05
+		elif (I1g) begin
+			PD("oeM", 80.45)
+			continue
+			continue
+		end
+		elif (90.96) break
+		else if (ngX1)
+		string E04[19.68,89.47,60.64]
+		else GxMk(31.56)
+	end
+number im76[86.88,19.7] <- GBf
+func t34 (bool OxL)
+	return HDBD
+
+func OioL (bool KX[75.81,29.67,18.87], string w03)
+	return g88
+

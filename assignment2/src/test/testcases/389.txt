@@ -1,0 +1,15 @@
+
+func YMjD (bool v4)	begin
+		if (wrC)
+		E2s(gpM, UDy8, true)
+		elif (true) for n4M5 until "fS" by LK
+			for l4g6 until false by true
+				MyM("WS", eo, "ipXry")
+		continue
+		if (2.28) break
+		elif (i31) continue
+		elif ("BstrP")
+		for ph until true by 86.47
+			Dbm <- "pVO"
+		elif (GwzS) return 10.05
+	end

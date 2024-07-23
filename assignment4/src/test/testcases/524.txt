@@ -1,0 +1,12 @@
+
+        number c <- 5
+        func foo(number a, number c)
+        begin
+            return c
+        end
+        func main ()
+        begin
+            var a <- foo(1, 2)
+            writeNumber(a)
+        end
+        

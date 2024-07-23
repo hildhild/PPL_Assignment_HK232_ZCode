@@ -1,0 +1,5 @@
+
+number Q1 <- d9q
+string a_[22.02,3.13,95.14]
+string sW[54.7] <- "F"
+string wOf0

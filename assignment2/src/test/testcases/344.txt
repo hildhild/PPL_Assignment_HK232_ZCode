@@ -1,0 +1,6 @@
+
+var a8 <- true
+bool Om[89.54]
+number pbO[93.66,63.15] <- ALi
+func vz4f (string Ng, bool ac[71.56,72.96], bool klAF[27.69,23.69,38.73])	return
+

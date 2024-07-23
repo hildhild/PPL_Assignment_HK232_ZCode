@@ -1,0 +1,3 @@
+
+number vtc[60.67] <- S_
+string LNA <- "NLno"

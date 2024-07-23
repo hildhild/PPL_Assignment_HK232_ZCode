@@ -1,0 +1,11 @@
+
+        dynamic a
+        func main ()
+        begin
+            var b <- "votien"
+            begin
+                a <- b
+            end
+            writeString(a)
+        end
+        

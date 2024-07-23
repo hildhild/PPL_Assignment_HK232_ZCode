@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(cWG), [], Block([CallStmt(Id(uT), [StringLit(j), StringLit(gomn)]), AssignStmt(Id(M3ye), NumLit(38.85))])), FuncDecl(Id(IwyZ), [], Block([AssignStmt(Id(s4U), NumLit(35.17)), CallStmt(Id(kCG5), [])])), VarDecl(Id(Rd), NumberType, None, None), FuncDecl(Id(wZo), [], Return())])

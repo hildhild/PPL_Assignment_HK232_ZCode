@@ -1,0 +1,6 @@
+
+func test(number x)
+begin
+    var y <- test
+    test(2018)
+end

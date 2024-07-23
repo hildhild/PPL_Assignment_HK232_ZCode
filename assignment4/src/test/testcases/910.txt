@@ -1,0 +1,20 @@
+
+func printMinArray(number x[10])
+func main()
+begin
+    var a <- [1,2,3,4,5,0,7,8,-1,10]
+    var c <- printMinArray(a)
+    writeNumber(c)
+end
+
+func printMinArray(number x[10])
+begin
+    var i <- 1
+    var min <- x[0]
+    for i until i >= 10 by 1
+    begin
+        if (min > x[i]) min <- x[i]
+    end
+    return min
+end
+        

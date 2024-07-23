@@ -1,0 +1,14 @@
+
+func f(number x, number y)
+begin
+    if (y == 0) return x
+    return f(y, x % y)
+end
+
+func main()
+begin
+    number x <- readNumber()
+    number y <- readNumber()
+    dynamic res <- f(x, y)
+    writeString(res)
+end

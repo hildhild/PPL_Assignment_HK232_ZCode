@@ -1,0 +1,4 @@
+
+func fsW (number Ly[47.93], number Ddn, string Ez)	return IIeI
+func znO6 (number rB[43.67,70.41], number A8t[92.19,42.9,97.0])	begin
+	end

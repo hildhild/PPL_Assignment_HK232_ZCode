@@ -1,0 +1,14 @@
+
+        func foo(number a[2])
+        begin
+            a[0] <- 2
+            a[1] <- 3
+        end
+        func main ()
+        begin
+            number a[2,2]
+            writeNumber(a[0,0])
+            foo(a[0])
+            writeNumber(a[0,1])
+        end
+        

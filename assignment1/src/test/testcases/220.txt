@@ -1,0 +1,5 @@
+
+func JD (dynamic sLLm)
+	begin
+		break
+	end

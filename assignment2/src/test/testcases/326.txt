@@ -1,0 +1,12 @@
+
+func Mnp3 ()
+	return R1w
+
+dynamic Uj <- false
+func kGmg (bool xX[36.91,93.5], string wI)
+	begin
+		IEO()
+		continue
+		for dHT until "p" by "Z"
+			dA[zw, Yit, true] <- RzoN
+	end

@@ -1,0 +1,9 @@
+
+func dyMX ()
+	return false
+## Qj,9utk7L}%IYrR:k
+## 9,x]%o:5-.cLYl
+func nb (number fE)
+	begin
+	end
+

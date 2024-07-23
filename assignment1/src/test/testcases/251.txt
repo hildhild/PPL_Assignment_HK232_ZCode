@@ -1,0 +1,4 @@
+
+func id (bool bp)
+	return "7'"'""
+

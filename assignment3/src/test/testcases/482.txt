@@ -1,0 +1,14 @@
+
+func test(number x)
+begin
+    var a <- x
+    var b <- -a
+    var c <- a + b
+    writeNumber(a + b + c)
+end
+
+func main()
+begin
+    test(2018)
+    return -1
+end

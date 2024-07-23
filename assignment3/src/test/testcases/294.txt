@@ -1,0 +1,6 @@
+    
+        func a()
+            begin
+                VoTien[] <- 1
+            end
+        

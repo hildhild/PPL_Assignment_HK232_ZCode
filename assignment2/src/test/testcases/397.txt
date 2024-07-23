@@ -1,0 +1,10 @@
+
+func yt (number L7e[85.06], bool WK, number tQEM[76.93,99.59])
+	return
+
+string M8R <- false
+bool g0 <- "PScUI"
+func A291 (bool hw1[65.78,97.96,39.72])	begin
+		return
+		continue
+	end

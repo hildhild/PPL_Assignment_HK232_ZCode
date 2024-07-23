@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(TNk), [VarDecl(Id(LSd), ArrayType([25.08, 37.11, 11.54], BoolType), None, None)], Return())])

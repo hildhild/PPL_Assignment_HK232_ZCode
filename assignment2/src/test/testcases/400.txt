@@ -1,0 +1,3 @@
+
+func MerN (bool MDNC)	return
+

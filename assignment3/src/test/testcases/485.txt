@@ -1,0 +1,13 @@
+
+dynamic a
+func main()
+begin
+    dynamic b
+    dynamic c
+    dynamic d
+    var e <- 1
+    var x <- [a, [b], [[c]], [[[d, e]]]]
+    c <- [-10, 2 / 3 % 0.75]
+    b <- [c]
+    a <- [b]
+end

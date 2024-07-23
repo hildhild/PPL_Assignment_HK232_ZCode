@@ -1,0 +1,5 @@
+
+func NP2 (bool lPuN[31.27,48.48,66.54], bool Fh[82.61,49.0])	return
+
+bool XDKR[14.21,57.28]
+var li <- "f"

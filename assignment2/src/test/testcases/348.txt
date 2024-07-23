@@ -1,0 +1,8 @@
+
+number gG[39.23,64.57,99.49] <- 52.82
+string pgep[22.2] <- "T"
+func sGss ()	begin
+		AQG(false, true, false)
+		continue
+		string VzIy[96.15]
+	end

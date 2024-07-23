@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(vNe), [VarDecl(Id(KVv4), ArrayType([92.97, 49.5], StringType), None, None), VarDecl(Id(uo), BoolType, None, None)], Block([Return()]))])

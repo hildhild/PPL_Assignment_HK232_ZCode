@@ -1,0 +1,5 @@
+
+## .% on^i
+func vHg (number BKE, bool lZmd)	begin
+	end
+

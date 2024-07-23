@@ -1,0 +1,4 @@
+
+func WD2h (bool tdQ, number nsK[76.59,2.9,47.5], number zt)	return
+bool XkA[59.27,69.3] <- lDgN
+number pnRV[61.78] <- false

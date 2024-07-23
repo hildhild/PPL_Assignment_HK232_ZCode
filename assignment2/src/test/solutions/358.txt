@@ -1,0 +1,1 @@
+Program([VarDecl(Id(ByY), ArrayType([3.48, 52.91], BoolType), None, StringLit(N)), VarDecl(Id(jXl), StringType, None, StringLit(KdXt))])

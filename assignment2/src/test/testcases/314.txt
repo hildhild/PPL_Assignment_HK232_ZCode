@@ -1,0 +1,5 @@
+
+string RdP[59.24,10.42,81.82]
+number QsFv <- 64.97
+bool X9OC <- 86.16
+string LEC

@@ -1,0 +1,3 @@
+
+number lJ7[30.97,30.97] <- 39.25
+func V1 (string T2j[84.69,5.69], number q2y)	return

@@ -1,0 +1,19 @@
+
+func f(number x, number y)
+begin
+    if (y = 0) return x
+    return f(y, x % y)
+end
+
+func main()
+begin
+    number x[10]
+    number y[10]
+    var i <- 0
+    for i until i >= 10 by 1
+        x[i] <- readNumber()
+    
+    for i until i >= 10 by "Hello"
+        y[i] <- readNumber()
+    
+end

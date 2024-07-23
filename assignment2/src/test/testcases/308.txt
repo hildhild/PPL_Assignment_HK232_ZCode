@@ -1,0 +1,13 @@
+
+string lGuw
+func NFB ()	begin
+		continue
+		for tDfl until kr by GT5
+			QxW <- "mCxK"
+		for Jj until false by "AOd"
+			continue
+	end
+
+string T2 <- "bd"
+bool Ov_o <- iFF
+number lH[5.39,13.03] <- "j"

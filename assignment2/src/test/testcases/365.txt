@@ -1,0 +1,13 @@
+
+func cWG ()
+	begin
+		uT("j", "gomn")
+		M3ye <- 38.85
+	end
+func IwyZ ()	begin
+		s4U <- 35.17
+		kCG5()
+	end
+
+number Rd
+func wZo ()	return

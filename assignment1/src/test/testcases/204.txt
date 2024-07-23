@@ -1,0 +1,4 @@
+
+func p5e (dynamic oe[7.350e+91,1.314])
+	return 928.031E66
+## QJ/A 

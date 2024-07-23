@@ -1,0 +1,1 @@
+Program([VarDecl(Id(qoZ7), None, dynamic, NumLit(86.32))])

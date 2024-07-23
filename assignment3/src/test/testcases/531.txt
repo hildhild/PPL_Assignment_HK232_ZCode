@@ -1,0 +1,9 @@
+
+        func foo(number x)
+        func main()
+        func main() 
+        begin
+        number a[2,1] <- [foo(1), foo(2)]
+        end
+        func foo(number z) return [[1]]
+        

@@ -1,0 +1,7 @@
+
+## ~If
+func Qr (string yEkp, number TSuz[8,973E+42], var NGm[80e+60,6e+11,806.639e-31])
+	begin
+		Thy["^9'"G", oW] <- true
+	end
+

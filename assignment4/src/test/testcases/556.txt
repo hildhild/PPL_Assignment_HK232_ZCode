@@ -1,0 +1,11 @@
+
+            func main()
+            begin
+                var a <- 0
+                if (a = 0) var b <- 2
+                elif (a = 1)  var b <- 3
+                elif (a = 2)  var b <- 4
+                else  var b <- 5
+                writeNumber(b)
+            end
+        

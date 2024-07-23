@@ -1,0 +1,9 @@
+
+bool K_SH
+func bQ (dynamic RC)	begin
+		Mur(fBk, 23)
+		dynamic nr[5.593E-66,2] <- pK ## ?a:15Nys[r
+	end
+
+func wgkm (number W9[15])	return "t"
+

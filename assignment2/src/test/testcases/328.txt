@@ -1,0 +1,4 @@
+
+string bT0[63.36,38.64] <- 15.7
+func um6J (string NHU[77.57,77.25], string xD[35.86])	return "o"
+string a3[14.6,26.27,30.21]

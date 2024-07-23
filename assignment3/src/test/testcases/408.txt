@@ -1,0 +1,6 @@
+
+            dynamic a <- a
+            func main() begin 
+                
+            end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(i6z), [], Return(StringLit(Q))), VarDecl(Id(db_4), None, dynamic, NumLit(48.85))])

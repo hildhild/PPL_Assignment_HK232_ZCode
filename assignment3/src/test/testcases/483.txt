@@ -1,0 +1,4 @@
+
+dynamic a
+string x[1] <- [a]
+func main() return

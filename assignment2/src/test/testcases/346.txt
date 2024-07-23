@@ -1,0 +1,7 @@
+
+bool nPVr[51.41] <- B2
+number bl <- "a"
+func fYfp (bool KCW, string I2S2[7.49])
+	return
+
+var uVW <- 15.77

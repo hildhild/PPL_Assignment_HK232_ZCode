@@ -1,0 +1,4 @@
+
+func nX (string Jhk, var jvN4)
+	begin
+	end

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(ol), StringType, None, NumLit(37.63)), VarDecl(Id(G1R), NumberType, None, BooleanLit(False)), VarDecl(Id(vnEw), None, var, Id(GU))])

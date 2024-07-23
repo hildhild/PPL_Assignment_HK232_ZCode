@@ -1,0 +1,7 @@
+
+        dynamic x
+        dynamic y
+        var a <-[x and x,x+y]
+        func main()
+        func main() return
+        

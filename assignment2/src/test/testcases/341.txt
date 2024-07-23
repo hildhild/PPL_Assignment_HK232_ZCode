@@ -1,0 +1,3 @@
+
+func TNk (bool LSd[25.08,37.11,11.54])	return
+

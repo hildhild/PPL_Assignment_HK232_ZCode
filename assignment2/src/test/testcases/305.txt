@@ -1,0 +1,4 @@
+
+bool D2vI[10.25,15.69] <- false
+func tda (bool iK, bool pQ, bool HX3)	return
+

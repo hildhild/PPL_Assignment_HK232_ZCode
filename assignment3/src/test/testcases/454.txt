@@ -1,0 +1,11 @@
+
+            func main()begin
+                dynamic a
+                if (a) return
+                elif (a)  return
+                else return
+                
+                if(true) return
+                elif (1) return
+            end
+        

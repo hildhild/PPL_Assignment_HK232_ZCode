@@ -1,0 +1,14 @@
+
+        dynamic a <- 1
+        func foo()
+        begin
+            a <- 3
+            writeNumber(a)
+        end
+        func main ()
+        begin
+            number a <- 2
+            foo()
+            writeNumber(a)
+        end
+        

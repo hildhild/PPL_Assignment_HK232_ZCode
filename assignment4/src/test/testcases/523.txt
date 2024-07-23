@@ -1,0 +1,9 @@
+
+        func foo(number a, number c)
+            return a
+        func main ()
+        begin
+            var a <- foo(1, 2) ## true
+            writeNumber(a)
+        end
+        

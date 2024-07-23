@@ -1,0 +1,6 @@
+
+dynamic lRF9
+string FRf9 <- 71.08
+string VC
+func Qgm9 (number N_Y[35.76], number va1[46.97,49.27])	return true
+bool rZ[47.04,3.05] <- ocRw

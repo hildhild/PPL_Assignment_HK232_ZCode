@@ -1,0 +1,24 @@
+
+func Tz ()	begin
+		begin
+			for E2Vl until false by 14.87
+				var PNvg <- "X"
+			cTA()
+			return false
+		end
+		QX9[true] <- 65.93
+	end
+func zwIr (number X1[78.51,15.5])	begin
+		Swo(MOoz, "o", true)
+		return
+		begin
+			break
+		end
+	end
+func VgGC (string Llr[35.69,59.53,49.16])
+	begin
+		Una()
+		begin
+		end
+	end
+number Ul <- 63.75

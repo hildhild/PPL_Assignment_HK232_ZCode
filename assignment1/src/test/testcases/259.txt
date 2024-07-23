@@ -1,0 +1,5 @@
+
+## ^;@upWm#F_eA1jw
+func Jak (string IoB, dynamic a0m, dynamic qL)
+	return
+

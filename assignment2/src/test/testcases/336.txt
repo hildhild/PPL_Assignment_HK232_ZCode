@@ -1,0 +1,11 @@
+
+var Jqy_ <- false
+func pU (number emut)
+	begin
+		ZWO5(20.62, false, "Lk")
+	end
+
+dynamic ak3J <- "fc"
+func BzxU ()
+	return
+

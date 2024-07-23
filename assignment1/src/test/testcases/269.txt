@@ -1,0 +1,8 @@
+
+func HZ (dynamic OFNp, number XS[8.572E+36,906.669])	return 8e+63
+
+func MFT ()	return false
+
+dynamic Gz <- oT
+number RpS[956,764.345] <- "`.'"'""
+number hB0[59.664,195] <- true ## rlW(_.)*n92u

@@ -1,0 +1,14 @@
+
+func VehA (string dDws, string Dt, bool QVj_)
+	begin
+		TZh[dc0, "tuOVo"] <- "ig"
+		if ("xv")
+		for iA until true by 53.58
+			number BXS0[52.09,12.01] <- "Fs"
+		elif (55.55) continue
+		elif (false)
+		for qC until 83.44 by "w"
+			l0kn[2.81] <- "p"
+		CCiA(true, Qm)
+	end
+var IEXA <- "dBm"

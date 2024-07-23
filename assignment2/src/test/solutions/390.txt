@@ -1,0 +1,1 @@
+Program([VarDecl(Id(Dze), ArrayType([43.24], StringType), None, BooleanLit(False)), VarDecl(Id(A7), StringType, None, None)])

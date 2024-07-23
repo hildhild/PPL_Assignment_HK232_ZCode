@@ -1,0 +1,7 @@
+
+string zkIq[32.08]
+string P_x[95.67,38.09] <- AFf
+func EWU (bool n_j, number zPo[77.51], string dWLg[58.5])	begin
+		bool gO
+		Pd_(true, 31.24, "di")
+	end

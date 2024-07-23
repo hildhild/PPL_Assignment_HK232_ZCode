@@ -1,0 +1,11 @@
+
+func MX (string X8SA, number cZ[82.08], string d3r[8.5])	begin
+		return
+		pamb(true)
+	end
+
+func xsBx ()
+	return
+
+func cR (bool ZzHO)	begin
+	end

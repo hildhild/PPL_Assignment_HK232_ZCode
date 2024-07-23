@@ -1,0 +1,12 @@
+
+func f(number x, bool y, string z)
+    return not y
+
+func main()
+begin
+    dynamic x
+    dynamic y
+    dynamic z
+    bool t <- f(x, y, z)
+    writeBool(y and not t)
+end

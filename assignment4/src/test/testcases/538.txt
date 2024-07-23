@@ -1,0 +1,7 @@
+
+        func main ()
+        begin
+            writeBool("vo" == "tien") 
+            writeBool("tien" == "tien")
+        end
+        

@@ -1,0 +1,15 @@
+
+func L2 ()
+	begin
+		if (JU) break
+		elif ("H")
+		break
+		elif ("WtA")
+		JD2p(false)
+		number qyKo <- 29.44
+		Lq[xra] <- "mw"
+	end
+func hZ (string r6gF, number egp)
+	begin
+	end
+var FC0 <- false

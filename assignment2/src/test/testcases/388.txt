@@ -1,0 +1,35 @@
+
+number O7S4[34.14,34.87]
+func tcy3 ()
+	begin
+		continue
+		dSc("CbOm", 34.01)
+		continue
+	end
+
+func SKR (string lj, string IaP[41.76,55.45,48.7], string Ou)	begin
+		continue
+		begin
+			break
+			IAN[true] <- "kU"
+		end
+		begin
+			if (80.73)
+			Qe[false, "ie", "PKdD"] <- false
+			elif (p9YK)
+			return 25.12
+			elif (swD) break
+			elif (true) WBFU[true] <- Ut
+			elif (68.9) LY8Y()
+			else begin
+				Sv9("YdkAk", "g")
+				begin
+					Ey0 <- "WNU"
+				end
+				SGU("CD", true)
+			end
+			kjD(false, LM3, "gMOz")
+			string H799 <- W4Or
+		end
+	end
+

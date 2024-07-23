@@ -1,0 +1,83 @@
+
+func gp ()	return - (- vX())
+
+func wA0b ()	begin
+		continue
+		if (- "U") return true
+		elif ("MMScz")
+		var vj <- 55.05
+		elif (false) if (87.18) thHT <- 22.17
+		elif (46.55) for UC until 75.16 by true
+			string oBD[70.12,6.46,14.4]
+		else ifu <- Hqpk
+		elif ("D") for W6_n until "Tyi" by false
+			continue
+		if (SY) return
+		elif ("L") ATrn()
+		elif (66.95)
+		if (true) if (9.73) bool drCu <- 3.91
+		elif (xml)
+		break
+		elif (false)
+		U7J0()
+		elif (30.21)
+		A8 <- 40.51
+		elif (91.21)
+		if (HQ2)
+		number gW[49.89,78.69] <- "uwZw"
+		elif (36.48) if (x5)
+		for Sj until false by "cNtm"
+			continue
+		elif ("sc")
+		break
+		elif (39.9)
+		xco0(false, sCs9, rYiY)
+		else Uf3(true)
+		elif (true)
+		for gNO until "GO" by true
+			break
+		elif ("QO") fO(BL3F, "Rfak")
+		elif (true) for A3VK until true by true
+			if (94.02)
+			continue
+			elif (rZ) for AA until true by "gzQ"
+				bool D4cd
+			elif (tb6)
+			begin
+				rA <- "gGtqk"
+				qoMS(71.79, 65.76, true)
+			end
+			elif (true) break
+			elif (M4m) for G_B_ until "pYU" by ja6
+				begin
+					continue
+					bcQ8[aeR, 25.05] <- false
+					begin
+						Mxv6("no", 57.82, true)
+					end
+				end
+			elif (7.11) break
+		elif (24.9)
+		break
+		elif ("GtPT") return "JsnJz"
+		else return true
+		elif (true) continue
+		else begin
+		end
+		elif (false) qv(s0x9, "c", "KzY")
+		elif (40.4) break
+		elif (false) g2["IokRm"] <- jJyB
+	end
+
+bool A51[81.2,89.8]
+func gr ()
+	return
+func Puil (number BaU)
+	begin
+		begin
+			break
+		end
+		begin
+		end
+		return 55.74
+	end

@@ -1,0 +1,13 @@
+
+            func a()
+            func main() begin 
+                a()
+                writeNumber(1.1)
+                writeString("string")
+                writeBool(true)
+                var a <- readNumber()
+                var b <- readString()
+                var c <- readBool()
+            end
+            func a() return
+        

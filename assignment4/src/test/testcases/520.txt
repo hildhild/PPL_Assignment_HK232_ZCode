@@ -1,0 +1,7 @@
+
+        func main ()
+        begin
+            var a <- readNumber()
+            writeNumber(a)
+        end
+        

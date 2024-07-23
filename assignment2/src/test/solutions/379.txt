@@ -1,0 +1,1 @@
+Program([VarDecl(Id(vtc), ArrayType([60.67], NumberType), None, Id(S_)), VarDecl(Id(LNA), StringType, None, StringLit(NLno))])

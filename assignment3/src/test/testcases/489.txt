@@ -1,0 +1,10 @@
+
+func test(number x)
+
+func main()
+begin
+    number test
+    begin
+        number x <- test(2018) + 1
+    end
+end

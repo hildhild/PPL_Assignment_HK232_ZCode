@@ -1,0 +1,1 @@
+Program([VarDecl(Id(KGrC), ArrayType([18.56, 6.01, 86.9], NumberType), None, None)])

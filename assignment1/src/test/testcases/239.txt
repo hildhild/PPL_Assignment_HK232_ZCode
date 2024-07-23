@@ -1,0 +1,3 @@
+
+func muo (bool Fkav)
+	return 3

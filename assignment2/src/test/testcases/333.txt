@@ -1,0 +1,7 @@
+
+bool PBN[52.43,51.63] <- true
+number oe[82.16,66.49,32.81] <- 27.92
+func nTp (string VQ[31.43,52.72,76.8])
+	begin
+	end
+string Kfu

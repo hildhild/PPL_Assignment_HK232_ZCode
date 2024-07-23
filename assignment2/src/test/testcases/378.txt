@@ -1,0 +1,5 @@
+
+func i6z ()
+	return "Q"
+
+dynamic db_4 <- 48.85

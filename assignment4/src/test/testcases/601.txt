@@ -1,0 +1,9 @@
+
+            func foo(number a)
+                return a
+            func main()
+            begin
+                dynamic a
+                writeNumber(foo(a))
+            end
+        

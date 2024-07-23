@@ -1,0 +1,7 @@
+
+dynamic lhhC ## gSyp{m 
+func T0EM (string oj[76.850e-71,69E31])	begin
+		bool JQ <- 0.237 ## |he%D
+		CD9(52.115, 20)
+		return
+	end

@@ -1,0 +1,1 @@
+Type Mismatch In Expression: ArrayLit(CallExpr(Id(foo), [NumLit(1.0)]), ArrayLit(CallExpr(Id(foo), [NumLit(2.0)])))

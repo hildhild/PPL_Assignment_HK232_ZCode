@@ -1,0 +1,6 @@
+
+func wW ()
+	begin
+	end
+
+string u4NW <- "f'"w"

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(vof), NumberType, None, StringLit(paCC))])

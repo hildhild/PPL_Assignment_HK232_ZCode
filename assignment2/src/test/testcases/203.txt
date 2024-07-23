@@ -1,0 +1,3 @@
+ 
+            dynamic VoTien[5] <- 3
+        

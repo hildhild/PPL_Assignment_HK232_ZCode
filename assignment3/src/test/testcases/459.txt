@@ -1,0 +1,13 @@
+
+func foo(number a)
+
+func main()
+begin
+    number a <- foo(1)
+    return
+end
+
+func foo(number a)
+begin
+    return
+end

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(MerN), [VarDecl(Id(MDNC), BoolType, None, None)], Return())])

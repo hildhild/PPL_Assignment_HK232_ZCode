@@ -1,0 +1,1 @@
+Program([VarDecl(Id(gG), ArrayType([39.23, 64.57, 99.49], NumberType), None, NumLit(52.82)), VarDecl(Id(pgep), ArrayType([22.2], StringType), None, StringLit(T)), FuncDecl(Id(sGss), [], Block([CallStmt(Id(AQG), [BooleanLit(False), BooleanLit(True), BooleanLit(False)]), Continue, VarDecl(Id(VzIy), ArrayType([96.15], StringType), None, None)]))])

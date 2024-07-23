@@ -1,0 +1,6 @@
+
+bool OA <- false
+func la (string gl)	return
+string VPn
+func q5 (string Ok[84.33,39.29], bool sBm)	return true
+

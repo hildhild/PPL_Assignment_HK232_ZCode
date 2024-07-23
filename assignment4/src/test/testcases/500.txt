@@ -1,0 +1,9 @@
+
+        func main ()
+        begin
+            writeNumber(1 + 1)
+            writeNumber(1 - 1)
+            writeNumber(1 * 2)
+            writeNumber(1 / 2)
+        end
+        

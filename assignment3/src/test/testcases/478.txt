@@ -1,0 +1,10 @@
+
+func main()
+begin
+    dynamic x
+    dynamic y
+    number a[2, 3] <- [x, y]
+    y <- [y[1] + y[2], y[2] - y[0], y[0] + y[1] < y[2]]
+    x <- [1, 9, 6]
+    writeNumber(a[0, 0])
+end

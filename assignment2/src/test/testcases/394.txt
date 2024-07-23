@@ -1,0 +1,5 @@
+
+string nedF[64.62] <- false
+string tMA[12.26,27.66] <- dTuF
+number NpB[63.01,10.12] <- true
+bool TtQ6[29.46,21.97]

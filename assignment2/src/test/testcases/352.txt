@@ -1,0 +1,4 @@
+
+string S2K[41.42,57.78,53.46] <- "Tgev"
+func noLe (bool izyC[68.73,47.95])	return
+

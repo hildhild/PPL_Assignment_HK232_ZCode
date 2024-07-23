@@ -1,0 +1,11 @@
+
+            func main()
+            begin
+                var i <- 0
+                for i until i >= 10 by 2
+                begin
+                    if (i = 3) break
+                    writeNumber(i)
+                end 
+            end
+        

@@ -1,0 +1,5 @@
+
+number lo[89.27,56.69] <- raT
+number PzN[29.58] <- 48.75
+string Liu[70.65,3.41,72.47]
+string Ru <- 31.85

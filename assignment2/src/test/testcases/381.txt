@@ -1,0 +1,9 @@
+
+func X2F (bool Eu[3.1,0.87,2.05])	return
+func C_ ()
+	return
+bool zx[51.31,74.53,78.34] <- 41.42
+func mtb (string PNA[69.37,70.1,73.96], string Jc[1.03], string w7b[82.71])
+	begin
+	end
+number M0a

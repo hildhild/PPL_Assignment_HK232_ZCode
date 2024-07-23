@@ -1,0 +1,9 @@
+
+string qmg[31.32,21.61,93.26] <- false
+number Aa[31.06,90.65] <- 83.4
+var acgq <- 35.06
+func km7 (number mn5x[15.76,94.34], number FVN[90.34,17.8], number Zs[81.74])	begin
+		for g_l until 80.19 by "SNV"
+			bool CN[65.88] <- true
+	end
+

@@ -1,0 +1,4 @@
+
+dynamic wBL[8.155E-33,98,9.931] <- 804 ## |R
+## !spl[<YJz|x++J4K,u}b
+func N4 (number bN[9.533])	return 8

@@ -1,0 +1,3 @@
+
+func rnF0 (number LjD[31.72,97.03,39.24], number tI[78.54])
+	return

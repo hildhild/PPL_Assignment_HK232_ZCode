@@ -1,0 +1,3 @@
+
+func Vi_p (string ePT[275E29,27E82,797])
+	return

@@ -1,0 +1,3 @@
+
+func pdK (bool C2vr[34.79,75.53,73.02], string XDZv[39.0,18.51], bool rezZ)
+	return xjo

@@ -1,0 +1,8 @@
+
+func qt (number Vz[80.8,91.62], number uor[15.58], number mx)
+	begin
+		break
+		break
+	end
+
+func wa (string jDQ[48.8,93.16])	return

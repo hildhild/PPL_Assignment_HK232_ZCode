@@ -1,0 +1,14 @@
+
+        dynamic a
+        func foo()
+        func main ()
+        begin
+            foo()
+            writeNumber(a)
+        end
+        func foo()
+        begin
+            a <- 3
+            writeNumber(a)
+        end
+        

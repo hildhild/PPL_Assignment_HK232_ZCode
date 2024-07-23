@@ -1,0 +1,4 @@
+
+number Keb ## }V[U:}
+string n1l[75E+21,1.622,33.701e-81] <- 295.504E-77
+func BPp (number BbG[0.165E05,289.979E+37])	return true
